@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Observações
+
+O Projeto foi feito acompanhando dicas do professor Bonieky Lacerda. O projeto em si ainda está em andamento.
 
 ## Available Scripts
 
